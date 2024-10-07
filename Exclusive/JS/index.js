@@ -36,12 +36,12 @@ const categoryList=[
   {
     "id":0,
     "img":"../Assets/CellPhone.svg",
-    "category":"Phone"
+    "category":"Phones"
   },
   {
     "id":1,
     "img":"../Assets/Computer.svg",
-    "category":"Computer"
+    "category":"Computers"
   },
   {
     "id":2,
@@ -51,12 +51,12 @@ const categoryList=[
   {
     "id":3,
     "img":"../Assets/eadphone.svg",
-    "category":"HeadPhone"
+    "category":"HeadPhones"
   },
   {
     "id":4,
     "img":"../Assets/Gamepad.svg",
-    "category":"Game"
+    "category":"Gaming"
   },
   {
     "id":5,
@@ -115,7 +115,7 @@ const productList=[
   },
   {
     "id":2,
-    "category": "Computer",
+    "category": "Computers",
     "title":"ASUS FHD Gaming Laptop",
     "image":"../Assets/ideapad-gaming-3i-01-500x500 1.png",
     "imgAlt":"Electric car.png",
@@ -141,7 +141,7 @@ const productList=[
   },
   {
     "id":4,
-    "category": "Game",
+    "category": "Gaming",
     "title":"Kids Electric Car",
     "image":"../Assets/Electric car.png",
     "imgAlt":"ideapad-gaming.png",
@@ -167,7 +167,7 @@ const productList=[
   },
   {
     "id":6,
-    "category": "Game",
+    "category": "Gaming",
     "title":"GP11 Shooter USB Gamepad",
     "image":"../Assets/shooter USB.png",
     "imgAlt":"shooter USB.png",
