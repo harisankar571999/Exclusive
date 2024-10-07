@@ -736,6 +736,7 @@ footer{
     
 }
 .logo-side{
+    margin-top:-20px;
     display: flex;
     flex-direction: column;
     gap: 24px;
@@ -749,7 +750,7 @@ footer{
     padding: 80px 135px 124px 135px;
     display: flex;
     justify-content: space-between;
-
+    
 }
 .subscribe{
     
